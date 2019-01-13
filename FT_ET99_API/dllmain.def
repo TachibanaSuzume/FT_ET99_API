@@ -1,0 +1,21 @@
+LIBRARY "FT_ET99_API"
+EXPORTS
+	MD5_HMAC
+	et_ChangeUserPIN
+	et_CloseToken
+	et_FindToken
+	et_GenPID
+	et_GenRandom
+	et_GenSOPIN
+	et_GetSN
+	et_HMAC_MD5
+	et_OpenToken
+	et_Read
+	et_ResetPIN
+	et_ResetSecurityState
+	et_SetKey
+	et_SetupToken
+	et_TurnOffLED
+	et_TurnOnLED
+	et_Verify
+	et_Write
